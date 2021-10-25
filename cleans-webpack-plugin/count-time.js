@@ -2,7 +2,7 @@
 /*计算编译耗时的plugin*/
 
 
-module.exports = class CounttPlugin {
+module.exports = class CountPlugin {
   
     apply(compiler) {
       let self = this
